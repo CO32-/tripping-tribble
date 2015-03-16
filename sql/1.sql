@@ -1,0 +1,3 @@
+SELECT *
+FROM Tabelle1
+WHERE ID > 0
